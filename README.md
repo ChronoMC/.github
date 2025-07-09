@@ -1,2 +1,1 @@
-# .github
-readcoronastudio
+# A simple repository that tells public what is ChronoMC
